@@ -1,0 +1,241 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Bistro.tmj": {
+            "scale": 1.1157552083333333,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 910.5940016337962,
+                "y": 686.9786439491189
+            }
+        },
+        "Bistro.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Bistro.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Bistro.tmj#Wokas": {
+            "scaleInDock": 1
+        },
+        "Bistro.tmj#Wokas_bistro": {
+            "scaleInDock": 1
+        },
+        "Bistro.tmj#bistro_final": {
+            "scaleInDock": 1
+        },
+        "Bistro.tmj#bistro_final FG": {
+            "scaleInDock": 1
+        },
+        "Bistro.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Clean.tmj": {
+            "scale": 0.5018012152777778,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 2221.995415819747,
+                "y": 766.239674782684
+            }
+        },
+        "Clean.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Clean.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Clean.tmj#Wokas": {
+            "scaleInDock": 1
+        },
+        "Clean.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Clean.tmj#street_clean_final": {
+            "scaleInDock": 1
+        },
+        "Clean.tmj#street_clean_final_FG": {
+            "scaleInDock": 1
+        },
+        "Dirty.tmj": {
+            "scale": 0.5018012152777778,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 2220.0025948190114,
+                "y": 766.239674782684
+            }
+        },
+        "Dirty.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Dirty.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Dirty.tmj#Wokas": {
+            "scaleInDock": 1
+        },
+        "Dirty.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Dirty.tmj#street_dirty_final": {
+            "scaleInDock": 1
+        },
+        "Dirty.tmj#street_dirty_final_FG": {
+            "scaleInDock": 1
+        },
+        "Recycle.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.8926041666666666,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 830.1552106430155,
+                "y": 830.7153693546504
+            }
+        },
+        "Recycle.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Recycle.tmj#Recycling corner_2": {
+            "scaleInDock": 1
+        },
+        "Recycle.tmj#Recycling corner_FG": {
+            "scaleInDock": 1
+        },
+        "Recycle.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Recycle.tmj#Wokas": {
+            "scaleInDock": 1
+        },
+        "Recycle.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Store.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.653125,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 255.6937799043061,
+                "y": 1205.7416267942585
+            }
+        },
+        "Store.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Store.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Store.tmj#Wokas": {
+            "scaleInDock": 1
+        },
+        "Store.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Store.tmj#runway_final": {
+            "scaleInDock": 1
+        },
+        "Store.tmj#runway_final FG": {
+            "scaleInDock": 1
+        },
+        "Street.tmj": {
+            "scale": 0.5018012152777778,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 219.21031008087198,
+                "y": 515.144228690049
+            }
+        },
+        "Street.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Street.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Street.tmj#Wokas": {
+            "scaleInDock": 1
+        },
+        "Street.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Street.tmj#sunflower street3": {
+            "scaleInDock": 1
+        },
+        "Street.tmj#sunflower street3 FG": {
+            "scaleInDock": 1
+        },
+        "Symposium.tmj": {
+            "scale": 0.6123675847457627,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 945.5105306404879,
+                "y": 544.6075336245297
+            }
+        },
+        "Symposium.tmj#03_4 susti FG": {
+            "scaleInDock": 1
+        },
+        "Symposium.tmj#03_4 susti symp": {
+            "scaleInDock": 1
+        },
+        "Symposium.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Symposium.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Symposium.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Symposium.tmj#Wokas": {
+            "scaleInDock": 1
+        },
+        "Symposium.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj": {
+            "scale": 0.6375744047619046,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 1314.356400980278,
+                "y": 574.8348698797994
+            }
+        },
+        "Tutorial.tmj#03 Bedroom": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#03 Bedroom FG": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#03 Bedroom_doors": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#Emoticons": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#Room_furniture": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#Wokas": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "Sunflower-City.tiled-project",
+    "recentFiles": [
+    ]
+}

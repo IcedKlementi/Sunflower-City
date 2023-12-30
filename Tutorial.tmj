@@ -706,7 +706,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":60,
                  "id":13,
                  "name":"jitsiChillZone",
@@ -732,13 +731,13 @@
                          "value":1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":224,
                  "x":-7.66666666666633,
                  "y":418.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":14,
                  "name":"silentZone",
@@ -749,13 +748,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":223,
                  "x":-3.99999999999933,
                  "y":298.666666666666
                 }, 
                 {
-                 "class":"area",
                  "height":125.333333333333,
                  "id":19,
                  "name":"from-street",
@@ -766,13 +765,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92,
                  "x":1379,
                  "y":863.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":158,
                  "id":27,
                  "name":"Info UI",
@@ -793,35 +792,35 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":224.166666666667,
                  "x":1312.5,
                  "y":353.333333333333
                 }, 
                 {
-                 "class":"",
                  "height":97.3336,
                  "id":28,
                  "name":"phrase02Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":319.5,
                  "x":781.666666666667,
                  "y":254.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":95.166666666667,
                  "id":29,
                  "name":"phrase02",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.8333333333333,
                  "x":906.750000000004,
                  "y":385.500000000001
                 }, 
                 {
-                 "class":"area",
                  "height":110,
                  "id":30,
                  "name":"Info Woka",
@@ -842,123 +841,123 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.3333333333333,
                  "x":1108.83333333333,
                  "y":89.8333333333337
                 }, 
                 {
-                 "class":"area",
                  "height":129.333333333333,
                  "id":31,
                  "name":"phrase03",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":126.666666666666,
                  "x":1249.33333333334,
                  "y":607.333333333333
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":32,
                  "name":"phrase03Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":1165.66666666667,
                  "y":432.916533333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":33,
                  "name":"phrase04",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":606.666666666666,
                  "y":640.666666666666
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":34,
                  "name":"phrase04Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":507.666666666667,
                  "y":531
                 }, 
                 {
-                 "class":"area",
                  "height":129.333666666667,
                  "id":35,
                  "name":"phrase05",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":151.5,
                  "x":280,
                  "y":626
                 }, 
                 {
-                 "class":"",
                  "height":97.2501333333333,
                  "id":36,
                  "name":"phrase05Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":261,
                  "y":509
                 }, 
                 {
-                 "class":"area",
                  "height":126,
                  "id":41,
                  "name":"phrase08",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":222,
                  "x":864.666666666666,
                  "y":608
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":42,
                  "name":"phrase08Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":844.833333333333,
                  "y":466.416533333333
                 }, 
                 {
-                 "class":"area",
                  "height":158,
                  "id":43,
                  "name":"phrase09",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":129,
                  "x":287,
                  "y":799.666666666667
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":44,
                  "name":"phrase09Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":227,
                  "x":286.666666666667,
                  "y":720.916533333333
                 }, 
                 {
-                 "class":"area",
                  "height":129.333333333333,
                  "id":45,
                  "name":"Info Settings",
@@ -979,13 +978,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":163.166666666667,
                  "x":1039.16666666667,
                  "y":350.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":125.333333333333,
                  "id":46,
                  "name":"Info Lost",
@@ -1006,35 +1005,35 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.9999999999991,
                  "x":607,
                  "y":611.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":126,
                  "id":47,
                  "name":"phrase10",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1279.33333333333,
                  "y":863.333333333333
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":48,
                  "name":"phrase10Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":1183.33333333333,
                  "y":721.125166666667
                 }, 
                 {
-                 "class":"area",
                  "height":63.3333333333334,
                  "id":49,
                  "name":"Teleport here",
@@ -1042,16 +1041,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-Tutorial"
+                         "value":".\/Tutorial.tmj#from-Tutorial"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":74.6666666666665,
                  "x":1280,
                  "y":544.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":93.3333333333334,
                  "id":50,
                  "name":"from-Tutorial",
@@ -1062,13 +1061,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.3333333333333,
                  "x":1279.16666666667,
                  "y":385.833333333333
                 }, 
                 {
-                 "class":"area",
                  "height":141.6123,
                  "id":53,
                  "name":"website",
@@ -1094,13 +1093,13 @@
                          "value":"Press SPACE or touch here to open a website"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":142.666666666667,
                  "x":560,
                  "y":849.19385
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":54,
                  "name":"my_door",
@@ -1132,13 +1131,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1516,
                  "y":803
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":56,
                  "name":"my_door2",
@@ -1170,13 +1169,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1227.5,
                  "y":564
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":57,
                  "name":"to-street",
@@ -1184,9 +1183,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"street.tmj#from-Tutorial"
+                         "value":".\/Street.tmj#from-Tutorial"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":1504,
@@ -1341,10 +1341,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"src\/Main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1376,7 +1376,6 @@
                      "name":"",
                      "objects":[
                             {
-                             "class":"",
                              "height":0,
                              "id":1,
                              "name":"",
@@ -1398,6 +1397,7 @@
                                      "y":0
                                     }],
                              "rotation":0,
+                             "type":"",
                              "visible":true,
                              "width":0,
                              "x":17,
@@ -1575,11 +1575,11 @@
                      "name":"",
                      "objects":[
                             {
-                             "class":"",
                              "height":33.5,
                              "id":1,
                              "name":"",
                              "rotation":0,
+                             "type":"",
                              "visible":true,
                              "width":16.5,
                              "x":16.5,
@@ -1600,11 +1600,11 @@
                      "name":"",
                      "objects":[
                             {
-                             "class":"",
                              "height":33,
                              "id":1,
                              "name":"",
                              "rotation":0,
+                             "type":"",
                              "visible":true,
                              "width":14.5,
                              "x":0,
@@ -1723,6 +1723,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":56
 }

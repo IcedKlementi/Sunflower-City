@@ -554,7 +554,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":96,
                  "id":74,
                  "name":"from-street",
@@ -565,13 +564,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":160,
                  "x":32,
                  "y":704
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":87,
                  "name":"my_door",
@@ -603,13 +602,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2158.83333333333,
                  "y":714.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":62.6667,
                  "id":89,
                  "name":"from-symp",
@@ -620,13 +619,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":1952,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":54,
                  "id":90,
                  "name":"to-symp",
@@ -634,9 +633,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"symposium.tmj#from-street"
+                         "value":".\/Symposium.tmj#from-street"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":145.5,
                  "x":2150.5,
@@ -773,10 +773,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"src\/Main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -978,6 +978,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":72
 }

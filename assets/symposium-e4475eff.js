@@ -1,0 +1,1 @@
+import{b as r}from"./init-cbacef14.js";console.log("Script started successfully");WA.onInit().then(()=>{console.log("Scripting API ready"),console.log("Player tags: ",WA.player.tags),WA.controls.disablePlayerProximityMeeting(),r().then(()=>{console.log("Scripting API Extra ready")}).catch(o=>console.error(o))}).catch(o=>console.error(o));
